@@ -1,4 +1,4 @@
-# Salesforce Health Cloud 
+# SF Health Cloud 
 
 ## Project Description
 According to a recent study, two-thirds of patients will likely move to a better healthcare system if their expectations are not met. Organizations that are prepared to enhance the patient experience, however, have the potential to boost their income by 5% to 10% above pre-COVID levels in just a year.
